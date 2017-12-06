@@ -1,0 +1,4 @@
+This directory contains inputs (datasets) that we use to train and test these models.
+
+These data can be found at:
+https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
