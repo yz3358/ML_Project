@@ -2,3 +2,5 @@ This directory contains inputs (datasets) that we use to train and test these mo
 
 These data can be found at:
 https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
+
+Unfortunately, one cannot upload files larger than 25MB, thus this directory contains only this discription file.
