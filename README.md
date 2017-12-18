@@ -12,4 +12,4 @@ The "cnn" and "svm" directory includes the test we run regarding to cnn and svm.
 
 The "working_directory" directory is, as its name suggests, the working directory we run our code to get the final results, together with the weights generated stored in files.
 
-
+The pdf file in current directory is our project report, which provides detailed information about our work.
